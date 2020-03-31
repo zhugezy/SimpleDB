@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/java/simpledb/BufferPool.java=UTF-8
+encoding//src/java/simpledb/Catalog.java=UTF-8
+encoding//src/java/simpledb/HeapFile.java=UTF-8
+encoding//src/java/simpledb/HeapPage.java=UTF-8
+encoding//src/java/simpledb/SeqScan.java=UTF-8
+encoding//src/java/simpledb/TupleDesc.java=UTF-8
